@@ -47,7 +47,7 @@
 
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Creación de una aplicación de CRM que simula la gestión dentro de una empresa</p>
 </div>
                                                                                       
 </td>
