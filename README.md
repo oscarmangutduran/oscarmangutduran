@@ -38,8 +38,8 @@
 <td width="50%">
 <h3 align="center">ADMINISTRADOR DE PACIENTES DE VETERINARIA</h3>
 <div align="center">
-<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank">
-<img src="/img/vetenerinario.png" width="400" alt="veterinario"></a>
+<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank"><img src="/img/vetenerinario.png" width="400" alt="Administrador de pacientes de veterinaria"></a>
+
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <p>
 </a>
