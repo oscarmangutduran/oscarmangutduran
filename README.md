@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Oscar Mangut 👋
 
 <!--
 **oscarmangutduran/oscarmangutduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
