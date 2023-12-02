@@ -36,11 +36,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">CRM con Indexed</h3>
+<h3 align="center">ADMINISTRADOR DE PACIENTES DE VETERINARIA</h3>
 <div align="center">
-<a href="https://github.com/oscarmangutduran/CRM_IndexedDB" target="_blank"><img src="./img/crm.webp" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank"><img src="./img/veterinario.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/oscarmangutduran/CRM_IndexedDB" target="_blank">
+<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank">
 
 </a>
 
