@@ -38,7 +38,7 @@
 <td width="50%">
 <h3 align="center">ADMINISTRADOR DE PACIENTES DE VETERINARIA</h3>
 <div align="center">
-<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank"><img src="./img/veterinario.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank"><img src="./img/veterinario.png" width="400" alt="veterinario"></a>
 <p>
 <a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank">
 
