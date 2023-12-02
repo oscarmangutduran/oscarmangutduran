@@ -5,9 +5,10 @@
 
 
 	
-## Sobre mi
+## Sobre mi 
 
-- 📲 Web Developer
+- Soy titulado superior en Administración de sistemas informáticos en red (ASIR), pero por circustancias laborales me he adentrado en el mundo de la programación y el desarrollo web.
+- 📲 Web Developer.
 
 <br>
 
