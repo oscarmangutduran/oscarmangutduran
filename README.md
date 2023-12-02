@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Óscar Mangut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <h1>Web programmer</h1>
+  <h1><center>Web programmer</center></h1>
 </p>
 
 
