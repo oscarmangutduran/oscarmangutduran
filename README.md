@@ -29,7 +29,7 @@
 
 ---
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> CMS  </h2>
+<h2> 🛠️ CMS  </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=v9uZbuVoWleB&format=png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='/img/prestashop.png'> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
