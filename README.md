@@ -16,7 +16,7 @@
 ---
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Lenguajes de programación  </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png'> </a>
+<a href= https://github.com/oscarmangutduran > <img width ='32px' src ='https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=21278&format=png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=108784&format=png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=j9DnICNnlhGk&format=png'> </a>
@@ -30,7 +30,7 @@
 ---
 
 <h2> 🛠️ CMS  </h2>
-<a href= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=v9uZbuVoWleB&format=png'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=v9uZbuVoWleB&format=png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='/img/prestashop.png'> </a>
   
 
