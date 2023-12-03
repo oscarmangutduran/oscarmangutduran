@@ -13,17 +13,11 @@
 
 
 
-
-
-
-
-
-
 ---
 
 
 
-## <picture> <img src = "/img/skills.webp" width = 50px>  </picture> Mis proyectos
+## <picture> <img src = "https://image.shutterstock.com/image-vector/cat-icon-flat-style-github-260nw-2298971193.jpg" width = 50px>  </picture> Mis proyectos
 
 <table>
 <tr>
@@ -64,7 +58,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/oscarmangutduran/" target="_blank">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/oscarmangutduran/"">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/oscarmangutduran">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
