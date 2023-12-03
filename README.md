@@ -30,7 +30,7 @@
 <td width="50%">
 <h3 align="center">ADMINISTRADOR DE PACIENTES DE VETERINARIA</h3>
 <div align="center">
-<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank"><img src="/img/vetenerinario.png" width="400" alt="Administrador de pacientes de veterinaria"></a>
+<a href="/img/vetenerinario.png" target="_blank"><img src="/img/vetenerinario.png" width="400" alt="Administrador de pacientes de veterinaria"></a>
 <a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <p>
@@ -45,7 +45,7 @@
                <br>
 <h3 align="center">ADMINISTRADOR DE PRESUPUESTO</h3>
 <div align="center">
-<a ><img src="/img/presupuesto.jpeg" width="400" alt="Administrador de presupuesto"></a>
+<a href="/img/presupuesto.jpeg" target="_blank"><img src="/img/presupuesto.jpeg" width="400" alt="Administrador de presupuesto"></a>
 <a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <p>
@@ -59,14 +59,20 @@
 </div>
 <br>
 
-## <picture> <img src="/img/Connect-with-me.gif" width="100px"> </picture> Contáctame
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
+
 <p align="center">
-	<a href="mailto:mangutduranoscar@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/oscarmangutduran"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-		<a href="https://www.linkedin.com/in/oscarmangutduran/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	
-	
-	
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/oscarmangutduran/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/oscarmangutduran">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		
+	   
+		
+      </div>
+
 </p>
 
 	
