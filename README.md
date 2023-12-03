@@ -31,7 +31,7 @@
 
 
 
-## <picture> <img src = "https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width = 50px>  </picture> Mi perfil de GitHub
+## <picture> <img src = "/img/skills.webp" width = 50px>  </picture> Mis proyectos
 
 <table>
 <tr>
