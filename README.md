@@ -54,7 +54,7 @@
                <br>
 <h3 align="center">ADMINISTRADOR DE PRESUPUESTO</h3>
 <div align="center">
-<a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank"><img src="/img/presupuesto.jpeg" width="400" alt="Administrador de presupuesto"></a>
+<a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank"><img src="/img/presupuesto.png" width="400" alt="Administrador de presupuesto"></a>
 <a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <p>
