@@ -32,7 +32,7 @@
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Mi perfil de GitHub
+## <picture> <img src = "https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width = 50px>  </picture> Mi perfil de GitHub
 
 <table>
 <tr>
