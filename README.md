@@ -3,9 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Programmer"></a>
 </p>
 
-
+## <picture><img src = "/img/about_me.gif" width = 50px></picture> **Sobre mí**
 	
-## Sobre mi 
 
 - Soy titulado superior en Administración de sistemas informáticos en red (ASIR), pero por circustancias laborales me he adentrado en el mundo de la programación y el desarrollo web.
 - 📲 Web Developer.
