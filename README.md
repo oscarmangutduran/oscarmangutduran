@@ -52,10 +52,10 @@
 
 <td width="50%">
                <br>
-<h3 align="center">ADMINISTRADOR DE PACIENTES DE VETERINARIA</h3>
+<h3 align="center">ADMINISTRADOR DE PRESUPUESTO</h3>
 <div align="center">
-<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank"><img src="/img/vetenerinario.png" width="400" alt="Administrador de pacientes de veterinaria"></a>
-<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank">
+<a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank"><img src="/img/presupuesto.jpeg" width="400" alt="Administrador de presupuesto"></a>
+<a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <p>
 </a>
