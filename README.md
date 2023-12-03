@@ -32,9 +32,7 @@
 <h2> 🛠️ CMS  </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://img.icons8.com/?size=48&id=v9uZbuVoWleB&format=png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='/img/prestashop.png'> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
+  
 
 ---
 
