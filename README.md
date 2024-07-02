@@ -37,40 +37,7 @@
 ---
 
 
-## <picture> <img src = "https://image.shutterstock.com/image-vector/cat-icon-flat-style-github-260nw-2298971193.jpg" width = 50px>  </picture> Mis proyectos
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">ADMINISTRADOR DE PACIENTES DE VETERINARIA</h3>
-<div align="center">
-<a href="/img/vetenerinario.png" target="_blank"><img src="/img/vetenerinario.png" width="400" alt="Administrador de pacientes de veterinaria"></a>
-<a href="https://github.com/oscarmangutduran/CitasVeterinario2" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-<p>
-</a>
-</p>
-<p>Creación de una aplicación de CRM que simula la gestión dentro de una empresa</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">ADMINISTRADOR DE PRESUPUESTO</h3>
-<div align="center">
-<a href="/img/presupuesto.jpeg" target="_blank"><img src="/img/presupuesto.jpeg" width="400" alt="Administrador de presupuesto"></a>
-<a href="https://github.com/oscarmangutduran/AdministracionPresupuesto" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-<p>
-</a>
-</p>
-<p>Creación de una aplicación que simula la administración del presupuesto semanal de una persona</p>
-</div>
-                                                                                      
-</td>                                                      
-</table>                                                                                 
-</div>
 <br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
